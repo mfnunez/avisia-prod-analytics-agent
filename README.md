@@ -1,6 +1,6 @@
 # Production Files Documentation
 
-## ✅ Files (9 files)
+## ✅ Production Files list (9 files)
 
 ### Core Application Files (3 files)
 1. **avisia_analytics_agent/__init__.py**
@@ -44,7 +44,7 @@
 
 ---
 
-## ❌ Files NOT COPIED (33 files)
+## ❌ Files NOT included from DEV env (33 files)
 
 ### Sensitive/Secret Files (3 files) - CRITICAL TO EXCLUDE
 - **client_secret.json** - OAuth client secrets (NEVER deploy)
