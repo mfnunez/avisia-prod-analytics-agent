@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Google Cloud credentials
+*.json
+!requirements.json
+*-key.json
+credentials.json
+service-account*.json
+client_secret*.json
+
+# Gmail OAuth2 credentials
+gmail_oauth_credentials.txt
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test outputs
+weekly_ga4_report.png
+test_email_*.html
+*.png
+*.pdf
+
+# Temporary files
+/tmp/
+*.tmp

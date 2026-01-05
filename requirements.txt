@@ -1,0 +1,32 @@
+# Core ADK and Google Cloud dependencies
+google-adk>=0.1.0
+google-genai>=1.0.0
+google-cloud-scheduler>=2.13.0
+google-cloud-pubsub>=2.18.0
+google-cloud-storage>=2.10.0
+google-api-python-client>=2.100.0
+google-auth>=2.23.0
+google-auth-httplib2>=0.1.1
+google-auth-oauthlib>=1.1.0
+
+# GA4 MCP Server
+analytics-mcp>=0.1.0
+
+# HTTP and API
+requests>=2.31.0
+httpx>=0.25.0
+
+# Data processing
+pandas>=2.1.0
+numpy>=1.24.0
+
+# Utilities
+python-dateutil>=2.8.2
+pytz>=2023.3
+
+# Cloud Run
+functions-framework>=3.5.0
+gunicorn>=21.2.0
+
+# Logging and monitoring
+google-cloud-logging>=3.8.0
